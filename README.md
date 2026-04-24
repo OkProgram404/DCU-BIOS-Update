@@ -6,7 +6,7 @@ powershell.exe -ExecutionPolicy Bypass -NonInteractive -WindowStyle Hidden -File
 
 ----------------------------------------------------------------------------------------------------------
 
-Current (BIOS only):
+Current (BIOS/firmware only):
 
 $DCUArgs = "/applyUpdates -silent -reboot=disable -updateType=bios,firmware"
 
