@@ -25,9 +25,9 @@ application - Dell apps (SupportAssist, etc.) — omit if you don't want this
 
 We can update the registry key names and log messages so they make sense for a broader scope:
 
-# Change these in the Configuration region
+Change these in the Configuration region
 $RegName = "UpdatesStaged"        # Currnetly BIOSUpdateStaged
-# And update the $DCUArgs log line - it will reflect automatically
+And update the $DCUArgs log line - it will reflect automatically
 
 
 ----------------------------------------------------------------------------------------------------------
