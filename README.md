@@ -34,7 +34,7 @@ We can update the registry key names and log messages so they make sense for a b
 
 Change these in the Configuration region
 
-$RegName = "UpdatesStaged"        # Currnetly BIOSUpdateStaged
+$RegName = "UpdatesStaged"        (Currently set to BIOSUpdateStaged)
 
 And update the $DCUArgs log line - it will reflect automatically
 
